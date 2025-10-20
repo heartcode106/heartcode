@@ -135,7 +135,11 @@ const messages = [
   "Tình yêu là khi chỉ cần nghĩ về ai đó...",
   "Trái tim bỗng nhiên đập nhanh hơn một nhịp 💓",
   "Cảm ơn vì đã xuất hiện trong cuộc đời anh...",
-  "Dù mai này thế nào, vẫn mong em mỉm cười thật tươi 🌹"
+  "Dù mai này thế nào, vẫn mong em mỉm cười thật tươi🌹"
+  "20/10 vui vẻ",
+  "Anh yêu em 💓",
+      " -Người yêu em ký tên ",
+            "Ninh"
 ];
 
 let currentMsg = 0;
@@ -165,3 +169,4 @@ loadImages(() => {
   revealNextImage(); // ảnh lần lượt xuất hiện trong tim
 });
 showNextMessage();
+
